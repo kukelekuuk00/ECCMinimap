@@ -1,14 +1,14 @@
 [
 {
-  "modid": "MapWriter",
-  "name": "MapWriter",
-  "description": "An open source mini map mod",
+  "modid": "ECCMinimap",
+  "name": "ECCMinimap",
+  "description": "Customized version of Mapwriter for EcoCityCraft",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "http://www.minecraftforum.net/topic/1570989-/",
+  "url": "http://ecocitycraft.com",
   "updateUrl": "",
   "authorList": ["mapwriter"],
-  "credits": "chrixian, ProfMobius, taelnia, jk-5",
+  "credits": "chrixian, ProfMobius, taelnia, jk-5, JamieSinn",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
